@@ -1,0 +1,8 @@
+.body_backgorund {
+  background-image: url("bg1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#myCanvas{
+  background-color: rgb(255, 255, 255);
+}
